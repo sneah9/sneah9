@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sneah9
+- 👋 Hi, I’m Nic
 - 👀 I’m interested in working with others and tackling challenging projects
-- 🌱 I’m currently learning backend and webdev
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently learning Python, backend-SQL and webdev-AWS
+- 💞️ I’m looking to collaborate on... anything really
 - 📫 Reach me here on Git
 
 <!---
