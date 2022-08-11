@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sneah9
-- 👀 I’m interested in building community and helping people
-- 🌱 I’m currently learning control systems and back end development
-- 💞️ I’m looking to collaborate on JavaScript and Python projects
+- 👀 I’m interested in working with others and tackling challenging projects
+- 🌱 I’m currently learning backend and webdev
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 Reach me here on Git
 
 <!---
