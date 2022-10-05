@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nick, I used to teach different technical subjects and now I'm focusing on my own learning
+- 👋 Hi, I’m Nick, I used to teach different technical subjects and now I'm focusing on learning
 - 👀 I’m interested in working with others and working through engaging projects
 - 🌱 I’m currently learning Back End Development- Python, SQL and DevOps-AWS
 - 💞️ I’m looking to collaborate on... Python and SQL Database projects
